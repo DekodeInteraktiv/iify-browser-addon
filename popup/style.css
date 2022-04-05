@@ -5,6 +5,7 @@
 }
 
 html, body {
+		margin: 0;
     width: auto;
     height: auto;
     background-color: #f7f7f7;
@@ -23,4 +24,11 @@ body {
     width: 340px;
     height: auto;
     padding: 10px;
+}
+
+@media (prefers-color-scheme: dark) {
+		body {
+				color: #f7f7f7;
+				background-color: #212529;
+		}
 }
