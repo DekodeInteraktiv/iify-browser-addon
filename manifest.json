@@ -1,0 +1,17 @@
+{
+  "manifest_version": 2,
+  "name": "Is it friday yet?",
+  "version": "1.0.0",
+  "description": "Help you check if its friday yet",
+  "icons": {
+    "64": "icons/icon-64.png"
+  },
+  "permissions": [
+    "activeTab"
+  ],
+  "browser_action": {
+    "default_icon": "icons/icon-64.png",
+    "default_title": "Is it friday yet?",
+    "default_popup": "popup/index.html"
+  }
+}
