@@ -7,6 +7,8 @@ function iify() {
 		case -1:
 		case 6:
 			return ("Almost.");
+		case -2:
+			return ("Tiny saturday today 💪");
 		case 0:
 			return ("Yep.");
 		case 1:
