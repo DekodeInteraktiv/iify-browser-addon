@@ -3,18 +3,14 @@ This browser extension checks if it's friday
 
 The extension add a new button to the browser.
 When you want to know if it's friday, click on the button.
-This plugin is mainly used by the support/devops team.
 # Install
-
 ## Chrome
-
 * From the top bar open Window.
 * Click on Extensions.
 * Click on Load unpacked.
 * Select the manifest.json
 
 ## Firefox
-
 To open the settings type this in address bar:
 ```
 about:debugging
