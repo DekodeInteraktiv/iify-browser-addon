@@ -8,7 +8,7 @@ When you want to know if it's friday, click on the button.
 * From the top bar open Window.
 * Click on Extensions.
 * Click on Load unpacked.
-* Select the manifest.json
+* Select the extension folder
 
 ## Firefox
 To open the settings type this in address bar:
